@@ -26,6 +26,8 @@ nav {
     justify-content: space-around;
     align-items: center;
     height: 17vh;
+    background-color: rgb(44, 71, 145);
+    
 }
 .nav-links {
     gap: 2rem;
@@ -328,7 +330,7 @@ article .icon {
 
 footer {
     height: 26vh;
-    margin: 0 1rem;
+    margin: 0;
 }
 
 footer p{
