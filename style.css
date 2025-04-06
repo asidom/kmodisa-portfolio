@@ -169,8 +169,8 @@ section {
 #social-container {
     display: flex;
     justify-content: center;
-    margin-top: 2rem;
-    gap: 2rem;
+    margin-top: 1rem;
+    gap: 1rem;
 }
 
 .icon {
@@ -230,8 +230,8 @@ section {
 }
 .about-containers {
     gap: 2rem;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 .about-details-container {
     display: flex;
