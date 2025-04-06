@@ -235,9 +235,10 @@ section {
 }
 .about-details-container {
     display: flex;
-    justify-content:space-between;
+    justify-content: center;
     flex-direction: column;
-
+    padding-right: 1.5rem;
+    
 }
 .text-container {
     text-align: center;
