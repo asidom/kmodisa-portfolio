@@ -169,8 +169,8 @@ section {
 #social-container {
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
-    gap: 1rem;
+    margin-top: 2rem;
+    gap: 2rem;
 }
 
 .icon {
@@ -256,7 +256,6 @@ section {
     border: rgb(7, 7, 7) 0.1rem solid;
     border-color: rgb(7, 6, 6);
     text-align: center;
-    gap: 1.5rem;
 }
 
 .section-container {
