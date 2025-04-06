@@ -249,7 +249,8 @@ section {
 }
 
 .detail-container{
-    padding: 2 rem;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
     flex: 1;
     background: rgb(255, 255, 255);
     border-radius: 2rem;
