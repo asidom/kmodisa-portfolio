@@ -236,7 +236,7 @@ section {
 .about-details-container {
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     gap: 2rem;
     
 }
@@ -283,7 +283,7 @@ section {
 .skills-details-container {
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     gap: 2rem;
 }
 
