@@ -282,7 +282,7 @@ section {
 }
 .skills-details-container {
     display: flex;
-    justify-content:flex-start;
+    justify-content: center;
     flex-direction: column;
 
 }
@@ -296,8 +296,8 @@ section {
 }
 article {
     display: flex;
-    width: 10rem;
-    justify-content: space-around;
+    width: 1.5rem;
+    justify-content: space-evenly;
     gap: 0.5rem;
 }
 article .icon {
