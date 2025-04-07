@@ -258,7 +258,7 @@ section {
     border: rgb(7, 7, 7) 0.1rem solid;
     border-color: rgb(7, 6, 6);
     text-align: center;
-    gap: 1rem;
+    margin-bottom: 1rem;
 }
 
 .section-container {
