@@ -229,7 +229,7 @@ section {
     position: relative;
 }
 .about-containers {
-    flex-direction: column;
+    display: flex;
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
