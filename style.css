@@ -283,7 +283,7 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
-
+}
 .article-container {
     display: flex;
     text-align: initial;
