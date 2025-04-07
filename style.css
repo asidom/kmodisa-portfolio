@@ -295,7 +295,7 @@ section {
     justify-content: space-around;
 }
 article {
-    display:block;
+    display:inline-flex;
     width: 1.5rem;
     justify-content: space-evenly;
     gap: 1rem;
