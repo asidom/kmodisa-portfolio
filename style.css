@@ -296,8 +296,8 @@ section {
 }
 article {
     display:flex;
-    width: 1.5rem;
-    justify-content: space-around;
+    width: 5rem;
+    justify-content: space-evenly;
     gap: 0.5rem;
 }
 article .icon {
