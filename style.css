@@ -295,10 +295,10 @@ section {
     justify-content: space-around;
 }
 article {
-    display: flex;
-    width: 10rem;
-    justify-content: space-around;
-    gap: 1.5rem;
+    display:block;
+    width: 1.5rem;
+    justify-content: space-evenly;
+    gap: 1rem;
 }
 article .icon {
     cursor: default;
